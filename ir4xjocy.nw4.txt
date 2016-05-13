@@ -1,0 +1,49 @@
+﻿
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# Explicit paths specified without -i or -o; assuming --only paths...
+# On branch master
+# Changes to be committed:
+#	new file:   Mipu_Hooking/.gitignore
+#	new file:   Mipu_Hooking/.idea/.name
+#	new file:   Mipu_Hooking/.idea/compiler.xml
+#	new file:   Mipu_Hooking/.idea/copyright/profiles_settings.xml
+#	new file:   Mipu_Hooking/.idea/encodings.xml
+#	new file:   Mipu_Hooking/.idea/gradle.xml
+#	new file:   Mipu_Hooking/.idea/misc.xml
+#	new file:   Mipu_Hooking/.idea/modules.xml
+#	new file:   Mipu_Hooking/.idea/runConfigurations.xml
+#	new file:   Mipu_Hooking/.idea/vcs.xml
+#	new file:   Mipu_Hooking/app/.gitignore
+#	new file:   Mipu_Hooking/app/build.gradle
+#	new file:   Mipu_Hooking/app/proguard-rules.pro
+#	new file:   Mipu_Hooking/app/src/androidTest/java/com/mipu/hooking/mipu_hooking/ApplicationTest.java
+#	new file:   Mipu_Hooking/app/src/main/AndroidManifest.xml
+#	new file:   Mipu_Hooking/app/src/main/assets/xposed_init
+#	new file:   Mipu_Hooking/app/src/main/java/com/mipu/hooking/mipu_hooking/Hook.java
+#	new file:   Mipu_Hooking/app/src/main/java/com/mipu/hooking/mipu_hooking/MainActivity.java
+#	new file:   Mipu_Hooking/app/src/main/java/com/mipu/hooking/mipu_hooking/hooks/RealDevice.java
+#	new file:   Mipu_Hooking/app/src/main/java/com/mipu/hooking/mipu_hooking/hooks/httpHook.java
+#	new file:   Mipu_Hooking/app/src/main/java/com/mipu/hooking/mipu_hooking/hooks/sockhook.java
+#	new file:   Mipu_Hooking/app/src/main/java/com/mipu/hooking/mipu_hooking/hooks/testhook.java
+#	new file:   Mipu_Hooking/app/src/main/res/layout/activity_main.xml
+#	new file:   Mipu_Hooking/app/src/main/res/mipmap-hdpi/ic_launcher.png
+#	new file:   Mipu_Hooking/app/src/main/res/mipmap-mdpi/ic_launcher.png
+#	new file:   Mipu_Hooking/app/src/main/res/mipmap-xhdpi/ic_launcher.png
+#	new file:   Mipu_Hooking/app/src/main/res/mipmap-xxhdpi/ic_launcher.png
+#	new file:   Mipu_Hooking/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png
+#	new file:   Mipu_Hooking/app/src/main/res/values-w820dp/dimens.xml
+#	new file:   Mipu_Hooking/app/src/main/res/values/colors.xml
+#	new file:   Mipu_Hooking/app/src/main/res/values/dimens.xml
+#	new file:   Mipu_Hooking/app/src/main/res/values/strings.xml
+#	new file:   Mipu_Hooking/app/src/main/res/values/styles.xml
+#	new file:   Mipu_Hooking/app/src/test/java/com/mipu/hooking/mipu_hooking/ExampleUnitTest.java
+#	new file:   Mipu_Hooking/build.gradle
+#	new file:   Mipu_Hooking/gradle.properties
+#	new file:   Mipu_Hooking/gradle/wrapper/gradle-wrapper.jar
+#	new file:   Mipu_Hooking/gradle/wrapper/gradle-wrapper.properties
+#	new file:   Mipu_Hooking/gradlew
+#	new file:   Mipu_Hooking/gradlew.bat
+#	new file:   Mipu_Hooking/settings.gradle
+#
+
